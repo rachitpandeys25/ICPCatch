@@ -1,0 +1,22 @@
+.welcome-banner {
+    background: linear-gradient(135deg, #0f3460, #16213e);
+    color: white;
+    padding: 30px;
+    border-radius: 16px;
+    margin-bottom: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+
+.welcome-banner h1 {
+    font-size: 1.6rem;
+    margin-bottom: 6px;
+}
+
+.welcome-banner p {
+    opacity: 0.8;
+    font-size: 0.95rem;
+}
